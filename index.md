@@ -1,5 +1,4 @@
-Some content in the file
 
-A little more content, this bit has a mistake in it.
+Some content in the file
 
 Rah! Another fact! This one is actually correct though.
